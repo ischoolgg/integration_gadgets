@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Module>
+  <ModulePrefs title="外部整合範例" popupURL="http://example.ischool.com.tw/example.htm" description="整合範例說明... ">
+    <Title lang="zh-TW">外部整合範例</Title>
+    <Icon>src/icon_96.png</Icon>
+    <Title lang="zh-CN"></Title>
+    <Title lang="en-US">
+    </Title>
+  </ModulePrefs>
+</Module>
